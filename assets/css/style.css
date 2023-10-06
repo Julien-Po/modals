@@ -26,3 +26,16 @@ h2, h3 {
     align-items: center;
     justify-content: center;
 }
+
+.modalContainer {
+    background-color: black;
+    position: absolute;
+    padding: 100px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+main {
+    position: relative;
+}
