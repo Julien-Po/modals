@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+h2, h3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 10px;
+}
+
+.centerItems {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.centerItems > img {
+    width: 20%;
+}
+
+.centerButton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
