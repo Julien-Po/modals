@@ -28,7 +28,7 @@ h2, h3 {
 }
 
 .modalContainer {
-    background-color: black;
+    background-color: grey;
     position: absolute;
     padding: 100px;
     top: 50%;
